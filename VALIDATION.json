@@ -1,0 +1,23 @@
+{
+  "gtk_css_loaded": [
+    "gtk.css",
+    "gtk-dark.css"
+  ],
+  "icons_located_and_rendered": {
+    "folder": "icons/Pir-Gruvbox-Icons/menu-integral/32/folder.svg",
+    "user-home": "icons/Pir-Gruvbox-Base/places/32/user-home.svg",
+    "text-x-generic": "icons/Pir-Gruvbox-Base/mimetypes/32/text-x-generic.svg",
+    "applications-internet": "icons/Pir-Gruvbox-Icons/scalable/categories/applications-internet.svg",
+    "applications-multimedia": "icons/Pir-Gruvbox-Icons/scalable/categories/applications-multimedia.svg",
+    "audio-volume-high-symbolic": "icons/Pir-Gruvbox-Base/status/symbolic/audio-volume-high-symbolic.svg",
+    "network-wireless-signal-excellent-symbolic": "icons/Pir-Gruvbox-Base/status/symbolic/network-wireless-signal-excellent-symbolic.svg"
+  },
+  "scope": "Explicit theme objects only; no windows opened and no desktop theme/settings changed.",
+  "internal_relative_symlinks": 25204,
+  "css_asset_references_checked": 276,
+  "missing_assets": 0,
+  "no_installer_applets_extensions_services": true,
+  "cursor_source_only_build_recipe": "SOURCES/capitaine-cursors/build.sh; not an installer",
+  "personal_media_and_fixed_home_paths": "excluded",
+  "live_theme_applied": false
+}

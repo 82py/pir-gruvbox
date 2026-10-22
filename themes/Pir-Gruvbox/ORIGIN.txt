@@ -1,0 +1,5 @@
+EN: Visual-only composition by Pir (82py), assisted by OpenAI Codex, 2026-10-22.
+Cinnamon: Gruvbox-Dark-BL-MOD-Sistema-Colorido, based on Fausto-Korpsvart / Vince Liuice; MOD provenance: Twilight4 collection.
+GTK 2/3: Mint-L-Dark-Sand. Metacity and Xfwm4: Mint-Y. Linux Mint contributors.
+Artwork and window decorations copied unchanged. GTK CSS drops one reference to the absent assets/thumbnail-frame.png in gtk.css and gtk-dark.css, retaining the existing solid-border fallback. Directory names and theme metadata were adapted. All original licenses apply; see LICENSES in the package.
+PT-BR: Composição apenas visual por Pir (82py), com assistência do OpenAI Codex. Artes e bordas copiadas sem alterações. O CSS GTK remove uma referência a thumbnail-frame.png ausente, mantendo a borda sólida já definida. Nomes de pastas e metadados foram adaptados. Consulte LICENSES.

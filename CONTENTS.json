@@ -1,0 +1,28 @@
+{
+  "version": "1.1.0-visual",
+  "source_release": "1.1.0",
+  "source_commit": "07c181c3064155a6f3ea926e41b8857549384a8b",
+  "visual_theme": "Pir-Gruvbox",
+  "theme_parts": {
+    "cinnamon": "Gruvbox-Dark-BL-MOD-Sistema-Colorido",
+    "gtk-2.0": "Mint-L-Dark-Sand",
+    "gtk-3.0": "Mint-L-Dark-Sand",
+    "metacity-1": "Mint-Y",
+    "xfwm4": "Mint-Y"
+  },
+  "icon_theme": "Pir-Gruvbox-Icons",
+  "icon_base": "Pir-Gruvbox-Base",
+  "cursor": "Pir-Gruvbox-Cursors",
+  "excluded": [
+    "installer",
+    "GUI manager",
+    "applets",
+    "extensions",
+    "services",
+    "Rain",
+    "workspace automation",
+    "desktop launchers",
+    "personal data"
+  ],
+  "source_note": "SOURCES contains only the original cursor source and build recipe, not an installer."
+}

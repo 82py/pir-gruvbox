@@ -1,0 +1,7 @@
+https://github.com/sainnhe/capitaine-cursors
+Tag r5
+Commit de1f0cb501cf64478428c87d3d366ede57678e86
+Original artwork: Keefer Rourke / KDE Breeze, LGPL-3.0-or-later; see LICENSES/capitaine-cursors/COPYING.
+Gruvbox variant: sainnhe.
+
+Visual-only Linux bundle: the Windows Install.inf template is omitted. Linux SVG sources, configs and original build recipe are retained.

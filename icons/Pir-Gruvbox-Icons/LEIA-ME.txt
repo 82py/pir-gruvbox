@@ -1,0 +1,2 @@
+EN: Select Pir-Gruvbox-Icons after copying both Pir-Gruvbox-Icons and Pir-Gruvbox-Base. Included Cinnamon CSS is in Pir-Gruvbox. No extensions or applets are supplied. Some symbolic indicators remain monochrome. See README.md at the package root.
+PT-BR: Selecione Pir-Gruvbox-Icons depois de copiar também Pir-Gruvbox-Base. O CSS do Cinnamon está no tema Pir-Gruvbox. Este pacote não inclui extensões nem applets; alguns indicadores simbólicos podem continuar monocromáticos. Veja README.md na raiz do pacote.

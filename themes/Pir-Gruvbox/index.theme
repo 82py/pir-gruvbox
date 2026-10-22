@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Pir-Gruvbox
+Comment=Gruvbox Cinnamon desktop, Mint-L Dark Sand GTK and Mint-Y window borders
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Pir-Gruvbox
+MetacityTheme=Pir-Gruvbox
+IconTheme=Pir-Gruvbox-Icons
+CursorTheme=Pir-Gruvbox-Cursors

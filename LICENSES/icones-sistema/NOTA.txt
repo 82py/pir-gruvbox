@@ -1,0 +1,5 @@
+# Recolored system icons / Ícones de sistema recoloridos
+
+The recolored XApp icons derive from the original artwork in `/usr/share/icons/hicolor/scalable/actions`. Their geometry and original SVG copyright metadata were preserved. Pir (82py) directed the color work with OpenAI Codex assistance on 21 October 2026. Original artwork and notices are included under `LICENSES/icones-sistema`; the complete icon theme inherits `Pir-Gruvbox-Base`, derived from Gruvbox Plus. See the root `CREDITS.md` and component licenses for attribution and terms.
+
+Os ícones XApp recoloridos derivam das artes originais de `/usr/share/icons/hicolor/scalable/actions`. A geometria e os metadados de direitos autorais dos SVGs foram preservados. Pir (82py) orientou a recoloração com auxílio do OpenAI Codex em 21 de outubro de 2026. As artes e os avisos originais estão em `LICENSES/icones-sistema`; o tema completo herda `Pir-Gruvbox-Base`, derivado do Gruvbox Plus. Consulte `CREDITS.md` e as licenças dos componentes para créditos e termos.
